@@ -9,7 +9,7 @@ import injectDefaultLayout from './src/utils/injectDefaultLayouts';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://stblog.penclub.club',
+  site: 'https://me.kemeow.top',
   integrations: [mdx(), sitemap(), solidJs(), UnoCSS()],
   markdown: {
     syntaxHighlight: 'prism',
