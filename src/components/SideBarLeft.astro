@@ -21,14 +21,16 @@ const tagsLength = Array.from(tags).length;
       alt="My avatar"
     />
     <p class="text-2xl mb-2">{SITE_TITLE}</p>
-    <p class="text-base mb-6">决不跪在地上<br />以显出刽子手们的高大<br />好阻挡自由的风</p>
+    <p class="text-base mb-6">
+      每一段旅行都有终点~<br />所有生命啊，它璀璨如歌！<br />总有些事情高于其他。
+    </p>
     <div class="flex justify-around w-full mb-6">
       <a href="/" class="flex flex-col items-center">
-        <p class="text-[11px]">POSTS</p>
+        <p class="text-[11px]">文章</p>
         <p>{allPosts.length}</p>
       </a>
       <a href="/tags" class="flex flex-col items-center">
-        <p class="text-[11px]">TAGS</p>
+        <p class="text-[11px]">标签</p>
         <p>{tagsLength}</p>
       </a>
     </div>
@@ -51,7 +53,7 @@ const tagsLength = Array.from(tags).length;
     <div class="mt-4 flex flex-wrap items-center">
       <a
         rel="me"
-        href="https://github.com/BeiyanYunyi/Astro-blog-Lithium"
+        href="https://github.com/Kemeow815"
         target="_blank"
         aria-label="source code of this blog"
       >
@@ -59,7 +61,7 @@ const tagsLength = Array.from(tags).length;
       </a>
       <a
         rel="me"
-        href="https://twitter.com/Beiyan_Yunyi"
+        href="https://twitter.com/kemiaosw"
         target="_blank"
         class="ml-4"
         aria-label="Twitter"
@@ -68,13 +70,22 @@ const tagsLength = Array.from(tags).length;
       </a>
       <a
         rel="me"
-        href="https://o3o.ca/@21018365486"
+        href="https://t.me/KemiaoJun"
         target="_blank"
         class="ml-4"
         aria-label="Fediverse"
       >
-        <span class="inline-block i-ion:logo-mastodon text-6"></span>
+        <span class="inline-block i-ion:paper-plane text-6"></span>
       </a>
+      <a
+        rel="me"
+        href="mailto:kemiaofx@163.com"
+        target="_blank"
+        class="ml-4"
+        aria-label="Fediverse"
+      >
+        <span class="inline-block i-ion:email-unread text-6"></span>
+      </a>      
     </div>
   </address>
 </div>
