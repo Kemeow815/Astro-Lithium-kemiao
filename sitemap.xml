@@ -1,440 +1,170 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 87 Generated at: 2025-04-11 17:03:36 -->
-
-  <url>
-    <loc>https://me.kemiao.online/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/intro</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/links</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/tags</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/rss.xml</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/FilterStalking/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/ToWangKuangyi/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/ThreeAxesOfAltRight/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/SddmWithFish/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/commentPolicy</loc>
-    <priority>0.85</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/TransPolitiCompass/</loc>
-    <priority>0.72</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/Progressive-Interests-and-Conservative-or-Reactionary-Anxieties/</loc>
-    <priority>0.72</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/CheatIntoMarriage/</loc>
-    <priority>0.72</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/nanbao/</loc>
-    <priority>0.72</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/SRS1Anniversary/</loc>
-    <priority>0.72</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/WhatHappenedAfterSheCameOut/</loc>
-    <priority>0.72</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/4</loc>
-    <priority>0.72</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/3</loc>
-    <priority>0.71</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/2</loc>
-    <priority>0.71</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/tags/</loc>
-    <priority>0.56</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/3/</loc>
-    <priority>0.56</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/4/</loc>
-    <priority>0.56</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/2/</loc>
-    <priority>0.56</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/5/</loc>
-    <priority>0.56</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/6/</loc>
-    <priority>0.56</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/SurgeryNote/</loc>
-    <priority>0.54</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/AgnesChow/</loc>
-    <priority>0.54</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/7/</loc>
-    <priority>0.54</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/CornerOfTheWorld/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/SlaveryAgainstTrans/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/InMemoryOfMio/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/panicPurchasing/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/SummaryOf2023/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/ResponsibilityOfFamilyViolence/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/ChineseOpenSourceWay/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/removeHexo/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/bar/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/luksNote/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/SexualAssaultNote/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/TheLittleMermaid/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/WaitingForTheRain/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/TeethBracing/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/SelfCutting/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/principleOfMyBlog/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/XiaoweiWang/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/DeadLiving/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/ResponsibilityOfCovid/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/golang/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/song/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/WhoisTheLiar/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/Feminism/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/WonderfulEveryday/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/imperialism/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/Sakura/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/commentPolicy/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/OldSchool/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/5</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/Chemistry/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/nightmare/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/CixinLiu/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/HainanTripNote/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/kindergartenOfGod/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/extractOfPsychoPass/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/TongJi/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/icourse163/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/114514/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/gojuuonzu/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/Fortran/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/htmlRender/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/DNSCrypt/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/HexoSharp/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/Icalingua/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/graphql/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/test/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/firefox/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/Magicbook/</loc>
-    <priority>0.53</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/links/</loc>
-    <priority>0.52</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/6</loc>
-    <priority>0.52</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/intro/</loc>
-    <priority>0.52</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/links/rules/</loc>
-    <priority>0.52</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/7</loc>
-    <priority>0.52</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/InMemoryOfMio</loc>
-    <priority>0.51</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/ToWangKuangyi</loc>
-    <priority>0.51</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/%E5%B9%B3%E5%AE%89%E4%B8%8E%E5%9C%A3%E8%AF%9E</loc>
-    <priority>0.51</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/links/rules</loc>
-    <priority>0.51</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/CornerOfTheWorld</loc>
-    <priority>0.51</priority>
-  </url>
-
-  <url>
-    <loc>https://me.kemiao.online/posts/SurgeryNote</loc>
-    <priority>0.51</priority>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://github.com/Kemeow815</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://twitter.com/kemiaosw</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://t.me/KemiaoJun</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>mailto:kemiaofx@163.com</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/intro</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/links</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/tags</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/rss.xml</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/posts/FilterStalking</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/posts/ToWangKuangyi</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/posts/ThreeAxesOfAltRight</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/posts/SddmWithFish</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/posts/nanbao</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/posts/TransPolitiCompass</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/posts/SRS1Anniversary</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/posts/Progressive-Interests-and-Conservative-or-Reactionary-Anxieties</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/posts/WhatHappenedAfterSheCameOut</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/posts/CheatIntoMarriage</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/2</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/3</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/4</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://me.kemiao.online/commentPolicy</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-11</lastmod>
+ <changefreq>daily</changefreq>
+</url>
 
 </urlset>
