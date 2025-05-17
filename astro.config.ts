@@ -9,7 +9,7 @@ import injectDefaultLayout from './src/utils/injectDefaultLayouts';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://me.kemiao.online',
+  site: 'https://i.kemiao.online',
   integrations: [mdx(), sitemap(), solidJs(), UnoCSS()],
   markdown: {
     syntaxHighlight: 'prism',
