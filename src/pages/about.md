@@ -17,19 +17,15 @@ date: '2025-04-10'
   </a>
 </div>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+About+page!;I+am+KeMiao+obsessed+with+programming!" />
+</p>
+
 - 🔭 I’m currently studying in Nanjing
 - 🌱 Current learning content: Automation Technology and Applications, front-end (sub), etc
 - 💬 You can ask me some questions about resources。
 - 📫 How to contact my email or official account: kemiaofx@163.com
 - 🍉 Active Community：[BLOG](https://blog-v3.kemeow.top) | [Telegram](https://t.me/KemiaoJun) |  [X](https://x.com/kemiaosw/) 
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20AM%20KeMiao%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+About+page!;I+am+KeMiao+obsessed+with+programming!" />
-</p>
 
 ### 👋 个人简介 
 ---
