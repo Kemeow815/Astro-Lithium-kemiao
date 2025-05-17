@@ -4,73 +4,78 @@ heroImage: '/头像方.webp'
 date: '2025-04-10'
 ---
 
-## 我？
+### Hello
 
-这是克喵爱吃卤面，南京大学自动化技术与应用专业的大二学生。
-
-### 成长轨迹
-
-**2023 年**  
-🌱 **年初**  
-├─ 初识「小绿书」  
-└─ 开启技术内容创作  
-❄️ **年末**  
-├─ 加入 Telegram 技术社群  
-├─ 关注资源渠道：  
-│ ├─ [@txwl666](https://t.me/txwl666)  
-│ └─ [@haoruanfenxiang](https://t.me/haoruanfenxiang)  
-└─ 构建技术资源网络  
-**2024 年**  
-❄️ **年末**  
-├─ 搭建个人博客  
-│ ├─ 初版源码：[BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)  
-│ ├─ 技术栈：Hexo + Butterfly  
-│ └─ 部署于 Vercel  
-**2025 年**  
-🌸 **四月**  
-└─ 博客重构升级  
- └─ 此博客上线  
-单机游戏控：饥荒启动！SM 杰出！
-
-## 标签墙
-
-大学牲 / 伪二次元 / 游戏党 / 爱折腾 / 日常造 Bug
-
-## 联系通道
-
-📱 **社交**
-
-- QQ（主）：3149261770
-- 微信仅限现实好友
-- Telegram：  
-   ├─ [频道](https://t.me/kemiaofx_me)  
-   ├─ [群组](https://t.me/kemiao_me)  
-   └─ [@Kemiaojun](https://t.me/Kemiaojun)  
-  🤖 建议优先使用 [机器人](https://t.me/KemeowBot)  
-  📧 **邮箱**
-- 优先：<kemiao@kmblog.icu>
-- 备用：<kemiaofx@163.com>
-
-## 投喂喵星人
-
-学生党求投喂！资金将用于：
-
-- 网站维护（70%）
-- 续命干饭（30%）
-- 玄学降低鸽化概率✨
-<div style="display: flex; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202502232137037.jpg" width="45%">
-  <img src="https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202502232137332.jpg" width="45%">
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://blog-v3.kemeow.top/">
+    <img 
+      src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+      alt="GIF Link" 
+      height="275" 
+      style="max-width: 100%; height: auto; display: inline-block;"
+    />
+  </a>
 </div>
-所有人都可留言！
 
-## 版权声明
+- 🔭 I’m currently studying in Nanjing
+- 🌱 Current learning content: Automation Technology and Applications, front-end (sub), etc
+- 💬 You can ask me some questions about resources。
+- 📫 How to contact my email or official account: kemiaofx@163.com
+- 🍉 Active Community：[BLOG](https://blog-v3.kemeow.top) | [Telegram](https://t.me/KemiaoJun) |  [X](https://x.com/kemiaosw/) 
 
-1. 资源遵循原始许可协议
-2. 文章默认采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-3. 转载须知：
-   - 必须提前告知并附原文链接
-   - 收到删除请求需立即下架
-   - 禁止非法/色情平台传播
-4. 代码遵循仓库许可证
-5. 任何情况禁止商业用途
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20AM%20KeMiao%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+About+page!;I+am+KeMiao+obsessed+with+programming!" />
+</p>
+
+### 👋 个人简介 
+---
+[个人主页](https://kemiao.online) | [博客站点](https://blog-v3.kemeow.top)
+
+大家好！这里是克喵爱吃卤面的博客。致力于分享资源、生活日记和踩坑教程，代码水准一般，自动化专业大二学生，现于南京就读，普通的大学牛马。
+
+### 关于我
+
+---
+
+- 🖥 **个性:** 开朗活泼，热爱学习，勤奋工作
+- 🖥 **技能:** 自动化技术与应用
+- 🖥 **个人信息:**
+    - 🧑 **姓名:** mcy
+    - 🏫 **学校:** 南京工业职业技术大学，[官方网站](https://www.niit.edu.cn/)
+    - 🏛️ **年级:** 大二
+    - 👷 **职业:** 学生
+- 🖥 **兴趣:** 计算机，单机游戏，电子产品，数码产品，资源分享
+- 🖥 **梦想:** 咸鱼算不算？
+
+---
+
+### 📈 我的GitHub数据
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kemeow815" alt="GitHub Stats" />
+</div>
+
+<p align="center">
+  <a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kemeow815&theme=github-compact&custom_title=Activity&radius=30&height=300" alt="Activity">
+  </a>
+</p>
+
+<div align="center">
+  <img 
+    src="https://github-immortality.vercel.app/api?username=Kemeow815" 
+    alt="修仙系列统计卡片" 
+    style="max-width: 100%; height: auto;" 
+  />
+</div>
+
+---
+
+### 赞助
+
+- 微信公众号：[克喵的小站](https://wechat.kemeow.top/)
+- 赞助页面: [点我](https://donate.152531.xyz/)

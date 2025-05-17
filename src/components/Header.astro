@@ -15,8 +15,11 @@ import HeaderLink from './HeaderLink.astro';
   </a>
   <nav class="flex flex-grow items-center justify-center ml-4">
     <HeaderLink href="/">主页</HeaderLink>
-    <HeaderLink class="ml-2" href="/intro">关于我</HeaderLink>
     <HeaderLink class="ml-2" href="/links">友链</HeaderLink>
+    <HeaderLink class="ml-2" href="https://shuoshuo.kemiao.online" target="_blank" rel="noopener noreferrer">说说</HeaderLink>
+    <HeaderLink class="ml-2" href="https://music.kemiao.online" target="_blank" rel="noopener noreferrer">音乐</HeaderLink>
+    <HeaderLink class="ml-2" href="https://news.kemiao.online" target="_blank" rel="noopener noreferrer">热榜</HeaderLink>
+    <HeaderLink class="ml-2" href="/intro">关于我</HeaderLink>
     <div class="flex-grow hidden sm:block"></div>
     <DarkSwitch client:only="solid-js" />
   </nav>
